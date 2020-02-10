@@ -1,7 +1,2 @@
-Skyview read me
+changed the first line Skyview read me
 im editing the file from gitHub UI
-
-csdcfdscfSC
-changed last line
-vunkfjdnvjbndkjv
-vfdvcdvcaev
